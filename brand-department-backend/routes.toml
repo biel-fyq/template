@@ -1,0 +1,21 @@
+[http]
+  [http.middlewares]
+
+    [http.middlewares.api-stripprefix.stripPrefix]
+      prefixes = ["/contract-management-service"]
+
+  [http.routers]
+
+    [http.routers.app-http]
+      entryPoints = ["http"]
+      service = "app"
+      rule = "PathPrefix(`/contract-management-service`)"
+      middlewares = ["api-stripprefix"]
+
+  [http.services]
+
+    [http.services.app]
+      [http.services.app.loadBalancer]
+        [[http.services.app.loadBalancer.servers]]
+          url = "http://127.0.0.1:8000"
+          

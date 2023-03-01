@@ -1,0 +1,12 @@
+# Push tag only to test branch
+name: Push Tag Pipeline
+on:
+  push:
+    branches:
+      - test
+jobs:
+  call-workflow:
+      uses: BIEL-Datalab/common-workflows/.github/workflows/build_and_push.yaml@master
+      secrets:
+        DATALAB_GITHUB_BOT_TOKEN: ${{ secrets.DATALAB_GITHUB_BOT_TOKEN }}
+        DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}

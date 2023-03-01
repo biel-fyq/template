@@ -1,0 +1,9 @@
+name:  Modify YAML Tag Pipeline
+on:
+  pull_request_review:
+    types:
+      - submitted
+      - edited
+jobs:
+  call-workflow:
+    uses: BIEL-Datalab/common-workflows/.github/workflows/update_chart_image_tag.yaml@master

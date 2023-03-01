@@ -1,0 +1,9 @@
+name: Modify GitRepo Revision Pipeline
+on:
+  issue_comment:
+    types: [ created ]
+jobs:
+  call-workflow:
+    uses: BIEL-Datalab/common-workflows/.github/workflows/modify_gitrepo_revision.yaml@master
+    secrets:
+      DATALAB_GITHUB_BOT_TOKEN: ${{ secrets.DATALAB_GITHUB_BOT_TOKEN }}

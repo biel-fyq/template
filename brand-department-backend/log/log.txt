@@ -1,0 +1,64 @@
+2023-02-28 09:56:30,869 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/GSRCU.png is successfully uploaded as object GSRCU.png to bucket test-by-brand-department
+2023-02-28 09:56:30,870 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:00:49,238 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/2022-11推荐关系表_2022年11月21日.xlsx is successfully uploaded as object 2022-11推荐关系表_2022年11月21日.xlsx to bucket test-by-brand-department
+2023-02-28 10:00:49,240 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:03:10,456 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/AI.png is successfully uploaded as object AI.png to bucket test-by-brand-department
+2023-02-28 10:03:10,456 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:03:51,081 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/二代证HX-FDX3S HX-FDX5机具驱动（支持32位、64位）.rar is successfully uploaded as object 二代证HX-FDX3S HX-FDX5机具驱动（支持32位、64位）.rar to bucket test-by-brand-department
+2023-02-28 10:03:51,083 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:08:39,736 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/2022-11推荐关系表_2022年11月21日.xlsx is successfully uploaded as object 2022-11推荐关系表_2022年11月21日.xlsx to bucket test-by-brand-department
+2023-02-28 10:08:39,737 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:10:32,006 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/522124199301126848.bmp is successfully uploaded as object 522124199301126848.bmp to bucket test-by-brand-department
+2023-02-28 10:10:32,006 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:11:20,579 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/522124199301126848.bmp is successfully uploaded as object 522124199301126848.bmp to bucket test-by-brand-department
+2023-02-28 10:11:20,579 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:11:48,215 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/522124199301126848.bmp is successfully uploaded as object 522124199301126848.bmp to bucket test-by-brand-department
+2023-02-28 10:11:48,215 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:12:22,187 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/Export-6cbcc2d6-230d-4789-a044-a09b8b1ddf17.zip is successfully uploaded as object Export-6cbcc2d6-230d-4789-a044-a09b8b1ddf17.zip to bucket test-by-brand-department
+2023-02-28 10:12:22,188 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:13:12,516 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/Export-6cbcc2d6-230d-4789-a044-a09b8b1ddf17.zip is successfully uploaded as object Export-6cbcc2d6-230d-4789-a044-a09b8b1ddf17.zip to bucket test-by-brand-department
+2023-02-28 10:13:12,517 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:13:28,390 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/招聘员KPI2022-10-24.xlsx is successfully uploaded as object 招聘员KPI2022-10-24.xlsx to bucket test-by-brand-department
+2023-02-28 10:13:28,391 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:14:08,140 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/整理数据 8aabc1f9b24745d4a208080df99ed02c.md is successfully uploaded as object 整理数据 8aabc1f9b24745d4a208080df99ed02c.md to bucket test-by-brand-department
+2023-02-28 10:14:08,141 - MainThread - INFO - Minio error:Object of type ObjectWriteResult is not JSON serializable
+2023-02-28 10:14:36,693 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/整理数据 8aabc1f9b24745d4a208080df99ed02c.md is successfully uploaded as object 整理数据 8aabc1f9b24745d4a208080df99ed02c.md to bucket test-by-brand-department
+2023-02-28 10:14:36,695 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:20:57,831 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/整理数据 8aabc1f9b24745d4a208080df99ed02c.md is successfully uploaded as object 整理数据 8aabc1f9b24745d4a208080df99ed02c.md to bucket test-by-brand-department
+2023-02-28 10:20:57,833 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:24:52,988 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/招聘人员信息.xlsx is successfully uploaded as object 招聘人员信息.xlsx to bucket test-by-brand-department
+2023-02-28 10:24:52,988 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:26:57,734 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/招聘人员信息.xlsx is successfully uploaded as object 招聘人员信息.xlsx to bucket test-by-brand-department
+2023-02-28 10:26:57,734 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:27:45,031 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/伯恩光学品牌重塑发布会讲义-发布稿.docx is successfully uploaded as object 伯恩光学品牌重塑发布会讲义-发布稿.docx to bucket test-by-brand-department
+2023-02-28 10:27:45,031 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:28:47,665 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/2022-03推荐关系表_2022-04-01（上传内部） (1).xlsx is successfully uploaded as object 2022-03推荐关系表_2022-04-01（上传内部） (1).xlsx to bucket test-by-brand-department
+2023-02-28 10:28:47,665 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:29:19,420 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/2022-03推荐关系表_2022-04-01（上传内部） (1).xlsx is successfully uploaded as object 2022-03推荐关系表_2022-04-01（上传内部） (1).xlsx to bucket test-by-brand-department
+2023-02-28 10:29:19,421 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:29:38,631 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/2022-03推荐关系表_2022-04-01（上传内部） (1).xlsx is successfully uploaded as object 2022-03推荐关系表_2022-04-01（上传内部） (1).xlsx to bucket test-by-brand-department
+2023-02-28 10:29:38,632 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:30:18,700 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/552cec7d169e747db3a6b4e05aac897e.jpeg is successfully uploaded as object 552cec7d169e747db3a6b4e05aac897e.jpeg to bucket test-by-brand-department
+2023-02-28 10:30:18,701 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:31:17,021 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/552cec7d169e747db3a6b4e05aac897e.jpeg is successfully uploaded as object 552cec7d169e747db3a6b4e05aac897e.jpeg to bucket test-by-brand-department
+2023-02-28 10:31:17,022 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:37:27,798 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/2022年度工作汇报-傅莺仟summer.pptx is successfully uploaded as object 2022年度工作汇报-傅莺仟summer.pptx to bucket test-by-brand-department
+2023-02-28 10:37:27,799 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:40:22,796 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/伯恩招聘合伙人优化升级2.0版本.pptx is successfully uploaded as object 伯恩招聘合伙人优化升级2.0版本.pptx to bucket test-by-brand-department
+2023-02-28 10:40:22,796 - MainThread - INFO - Minio error:object NoneType can't be used in 'await' expression
+2023-02-28 10:42:38,141 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/伯恩招聘合伙人优化升级2.0版本.pptx is successfully uploaded as object 伯恩招聘合伙人优化升级2.0版本.pptx to bucket test-by-brand-department
+2023-02-28 10:42:48,055 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/1 (1).jpg is successfully uploaded as object 1 (1).jpg to bucket test-by-brand-department
+2023-02-28 10:43:31,640 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/1.jpg is successfully uploaded as object 1.jpg to bucket test-by-brand-department
+2023-02-28 10:44:03,842 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/1.jpg is successfully uploaded as object 1.jpg to bucket test-by-brand-department
+2023-02-28 10:44:21,051 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/notepad-plus-8.4.8-installer_azc-Tn1.exe is successfully uploaded as object notepad-plus-8.4.8-installer_azc-Tn1.exe to bucket test-by-brand-department
+2023-02-28 10:58:43,071 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/notepad-plus-8.4.8-installer_azc-Tn1.exe is successfully uploaded as object notepad-plus-8.4.8-installer_azc-Tn1.exe to bucket test-by-brand-department
+2023-02-28 10:59:01,532 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/notepad-plus-8.4.8-installer.exe is successfully uploaded as object notepad-plus-8.4.8-installer.exe to bucket test-by-brand-department
+2023-02-28 11:01:02,807 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/伯恩招聘合伙人优化升级2.0版本.pptx is successfully uploaded as object 伯恩招聘合伙人优化升级2.0版本.pptx to bucket test-by-brand-department
+2023-02-28 11:01:02,808 - MainThread - INFO - Minio error:'ObjectWriteResult' object has no attribute 'Date'
+2023-02-28 11:01:59,017 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/伯恩招聘合伙人优化升级2.0版本.pptx is successfully uploaded as object 伯恩招聘合伙人优化升级2.0版本.pptx to bucket test-by-brand-department
+2023-02-28 17:24:17,329 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/1 (2).jpg is successfully uploaded as object 1 (2).jpg to bucket test-by-brand-department
+2023-02-28 17:24:17,390 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/1 (2).jpg is successfully uploaded as object 1 (2).jpg to bucket test-by-brand-department
+2023-02-28 17:30:54,554 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/webview-share-html - 微信开发者工具 Stable 1.05.2201240 2022-08-02 17-46-23.mp4 is successfully uploaded as object webview-share-html - 微信开发者工具 Stable 1.05.2201240 2022-08-02 17-46-23.mp4 to bucket test-by-brand-department
+2023-02-28 17:30:56,794 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/webview-share-html - 微信开发者工具 Stable 1.05.2201240 2022-08-02 17-46-23.mp4 is successfully uploaded as object webview-share-html - 微信开发者工具 Stable 1.05.2201240 2022-08-02 17-46-23.mp4 to bucket test-by-brand-department
+2023-03-01 10:17:39,438 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/开工大吉.jpg is successfully uploaded as object 开工大吉.jpg to bucket test-by-brand-department
+2023-03-01 10:17:39,520 - MainThread - INFO - /home/yilin/bielCode/brand-department/brand-department-backend/app/minio/开工大吉.jpg is successfully uploaded as object 开工大吉.jpg to bucket test-by-brand-department

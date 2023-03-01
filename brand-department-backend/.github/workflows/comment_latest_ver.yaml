@@ -1,0 +1,9 @@
+name: Comment latest version when open/reopen PR
+on:
+  pull_request:
+    types: [opened, reopened]
+jobs:
+  call-workflow:
+    uses: BIEL-Datalab/common-workflows/.github/workflows/comment_latest_ver.yaml@master
+    secrets:
+      REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}

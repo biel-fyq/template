@@ -1,0 +1,5 @@
+[ZoneTransfer]
+ZoneId=3
+Time=1664438510209
+ReferrerUrl=https://github.com/traefik/traefik/releases/tag/v2.8.7
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/42408804/e196fb8f-67c6-490e-b9fe-44ba3dc16c4b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220929T080140Z&X-Amz-Expires=300&X-Amz-Signature=5e259455e5a05b53ad40cdf4cb39e8d8ca420c4f9d116ad018546732bdd84504&X-Amz-SignedHeaders=host&actor_id=86816096&key_id=0&repo_id=42408804&response-content-disposition=attachment%3B%20filename%3Dtraefik_v2.8.7_linux_amd64.tar.gz&response-content-type=application%2Foctet-stream
